@@ -76,6 +76,9 @@ Install dependencies:
 pip install llama-index openai python-dotenv httpx
 
 ------------------------------------------------------------
+## Data
+
+Add your PDF files into the /data folder before running the project.
 
 ## Run the Project
 
